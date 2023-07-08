@@ -1,4 +1,5 @@
 #Monday Motivation Project
+# K divyendra
 import smtplib
 import datetime as dt
 import random
